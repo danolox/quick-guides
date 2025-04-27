@@ -694,13 +694,13 @@ graph TD;
 <pre lang="html">
 &lt;p name="name_id"&gt;Referenced text&lt;/a&gt;
 <!-- blank space for better readability -->
-&lt;a href="#anchor"&gt;Anchor text&lt;/a&gt;
+&lt;a href="#name_id"&gt;text&lt;/a&gt;
 </pre>
 <p align="center">Or with the <code>id=""</code> attribute</p>
 <pre lang="html">
 &lt;p id="new_id"&gt;Referenced text&lt;/a&gt;
 <!-- blank space for better readability -->
-&lt;a href="#new_id"&gt;Anchor text&lt;/a&gt;
+&lt;a href="#new_id"&gt;text&lt;/a&gt;
 </pre>
     </td>
     <!--- Output --->
