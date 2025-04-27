@@ -19,7 +19,7 @@ Upload or create a new **Markdown file** by adding the `.md` extension at the en
 
 ### Repository's `README.md`
 <p>This file is the first thing people read when they visit your repository, as it helps people understand the repository's content.</p>
-<p>The `README.md` file can be created:</p>
+<p>The <code>README.md</code> file can be created:</p>
 
 * When creating a new repository, check the option <kbd>Add a README file</kbd>.
 * By adding or creating a new file in the root of your repository and naming it `README.md`.
