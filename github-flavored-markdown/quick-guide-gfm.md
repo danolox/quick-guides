@@ -547,12 +547,12 @@ graph TD;
 1) You can also use:
    1) ")" instead of "."
 2) Nesting:
-    1) Must start with "1"
-    2) "1." or "1)"
-    3) for it to work
-    4) And below starting
-    5) letter of previous
-    5) parent item
+   1) Must start with "1"
+   2) "1." or "1)"
+   3) for it to work
+   4) And below starting
+   5) letter of previous
+   6) parent item
 3. These ones won't apply nesting:
    3. Does not start with 1
   1. Does not indent correctly
