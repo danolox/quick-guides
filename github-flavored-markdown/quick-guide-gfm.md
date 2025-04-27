@@ -6,8 +6,11 @@
 > [!NOTE]
 > GitHub Flavored Markdown renders on GitHub related websites (repositories, gists, comments, `.md` files, etc.).
 
+<br>
 
 ## Creating an `.md` file
+
+<br>
 
 ### Manually
 Upload or create a new **Markdown file** by adding the `.md` extension at the end of the file's name.
