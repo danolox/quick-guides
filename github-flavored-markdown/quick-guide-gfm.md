@@ -47,8 +47,8 @@ More about READMEs, in GitHub Docs:
 
 |  Style           |  Markdown syntax           |  HTML tags                     |  Output Example                 |  Notes                                                           |
 |------------------|:--------------------------:|:------------------------------:|:-------------------------------:|------------------------------------------------------------------|
-|  Bold            |  `**text**` or `__text__`  |  `<strong>` or `<b>`           |  **text in bold**               |  Keyboard shortcut: <kbd>Command / Ctrl</kbd> + <kbd>B</kbd>      |
-|  Italic          |   `*text*`  or  `_text_`   |  `<i>` or `<em>`               |  *text in italic*               |  Keyboard shortcut: <kbd>Command / Ctrl</kbd> + <kbd>I</kbd>      |
+|  Bold            |  `**text**` or `__text__`  |  `<strong>` or `<b>`           |  **text in bold**               |  Keyboard shortcut: <kbd>Command / Ctrl</kbd> + <kbd>B</kbd>     |
+|  Italic          |   `*text*`  or  `_text_`   |  `<i>` or `<em>`               |  *text in italic*               |  Keyboard shortcut: <kbd>Command / Ctrl</kbd> + <kbd>I</kbd>     |
 |  Strikethrough   |  `~~text~~`                |  `<s>` or `<del>`              |  ~~text with strikethrough~~    |  Single tilde syntax not supported                               | <!-- <strike> tag is depracated, not supported in HTML5 -->
 |  Underline       |  -                         |  `<ins> </ins>`                |  <ins>underlined text</ins>     |  -                                                               |
 |  Superscript     |  -                         |  `<sup> </sup>`                |  <sup>superscript</sup> text    |  -                                                               |
