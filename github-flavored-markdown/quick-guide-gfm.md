@@ -21,8 +21,8 @@ The `README.md` file can be created:
 
 <br>
 
-### Profile `README` (shows in your GitHub profile home page)
-If you want to create a Profile README that will show when people visit your website, follow this steps:
+### Profile `README`
+If you want to create a profile README that will show when people visit your GitHub profile homepage, follow these steps:
 - Create a Public repository.
 - Its name must match your username.
 - Check the option <kbd>Add a README file</kbd>.
