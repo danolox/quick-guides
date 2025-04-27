@@ -211,7 +211,7 @@ ___
 <!----- INFORMATIONAL BLOCKS ---- SECTION --------------------------------------->
 <!------------------------------------------------------------------------------->
 <tr>
-    <td align="center"><b>INFORMATION<br>BLOCKS</b></td>
+    <td align="center"><b>INFORMATIONAL<br>BLOCKS</b></td>
     <td align="center"></td>
     <td align="center"></td>
 <!--     <td align="center"></td> -->
@@ -230,11 +230,14 @@ ___
 <!------------------------------------------------------------------------------->
 <tr>
     <!---- Name ---->
-    <td align="center">Alerts<br>ℹ️⚠️🔔❗</td>
+    <td align="center">Alerts<br>ℹ️💡⚠️🔔❗</td>
     <!-- Markdown -->
     <td>
+<p align="center"><a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts">GitHub Docs</a></p>
 <pre lang="html">> [!NOTE]
 > This is a note.</pre>
+<pre lang="html">> [!TIP]
+> Some good advice.</pre>
 <pre lang="html">> [!WARNING]
 > Warning message.</pre>
 <pre lang="html">> [!IMPORTANT]
