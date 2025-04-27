@@ -1,7 +1,32 @@
 
 <h1 align="center">Quick Guide: GitHub Flavored Markdown</h1>
 
-<br><br>
+<br>
+
+> [!NOTE]
+> GitHub Flavored Markdown renders on GitHub related websites (repositories, gists, comments, `.md` files, etc.).
+<br>
+
+## Creating an `.md` file
+
+### Manually
+Upload or create a new **Markdown file** by adding the `.md` extension at the end of the file's name.
+  
+### `README.md` file showing in the root of your repository
+* The `README.md` file can be created:
+  * When creating a new repository, check the option <kbd>Add a README file</kbd>.
+  * By adding or creating a new file in the root of your repository and naming it `README.md`.
+
+### Profile `README` (shows in your GitHub profile home page)
+If you want to create a Profile README that will show when people visit your website, follow this steps
+
+<br>
+
+More about READMEs, in GitHub Docs:  
+- [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)  
++ [Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
+
+<br>
  
 ## Inline Styling
 <br>
